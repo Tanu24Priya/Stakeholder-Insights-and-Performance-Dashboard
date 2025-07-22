@@ -39,8 +39,11 @@ Ensure filters and KPIs update dynamically based on selections.
 
 ## Project Insight
 Display the total premium collected: KPI card summarizing the total amount of premiums collected.
+
 Show the average age of stakeholders: KPI card presenting the average stakeholder age.
+
 Highlight the total Value Created for insurers or stakeholders where Assets under Management is 'Equity': KPI card focusing on value creation under equity management.
+
 Identify the highest value created by a single insurer: KPI card showcasing the top-performing insurer by value created.
 
 ## Final Conclusion
