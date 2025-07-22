@@ -40,19 +40,19 @@ Ensure filters and KPIs update dynamically based on selections.
 ## Project Insight
 - Display the total premium collected: KPI card summarizing the total amount of premiums collected.
 
--Show the average age of stakeholders: KPI card presenting the average stakeholder age.
+- Show the average age of stakeholders: KPI card presenting the average stakeholder age.
 
--Highlight the total Value Created for insurers or stakeholders where Assets under Management is 'Equity': KPI card focusing on value creation under equity management.
+- Highlight the total Value Created for insurers or stakeholders where Assets under Management is 'Equity': KPI card focusing on value creation under equity management.
 
--Identify the highest value created by a single insurer: KPI card showcasing the top-performing insurer by value created.
+- Identify the highest value created by a single insurer: KPI card showcasing the top-performing insurer by value created.
 
 ## Final Conclusion
--Compare the total value created by different insurers: Displays the total value created for a comparative analysis among insurers.
--Display trends in premiums collected over time: Shows premium trends using line or area charts to analyse changes over time.
--Showcase the distribution of shareholding patterns among stakeholders: Visualizes shareholding patterns using pie or bar charts.
--Analyse the relationship between cost ratio and profitability: Correlation or scatter plots reveal insights between cost ratio and profitability metrics.
--Visualize profitability for different cities and policy tenure durations: Heatmaps or bar charts categorize profitability by city and policy tenure.
--Represent the distribution of assets under management across stakeholders: Bar or treemap visualizations display how assets are distributed among stakeholders.
+Compare the total value created by different insurers: Displays the total value created for a comparative analysis among insurers.
+Display trends in premiums collected over time: Shows premium trends using line or area charts to analyse changes over time.
+Showcase the distribution of shareholding patterns among stakeholders: Visualize shareholding patterns using pie or bar charts.
+Analyse the relationship between cost ratio and profitability: Correlation or scatter plots reveal insights between cost ratio and profitability metrics.
+Visualize profitability for different cities and policy tenure durations: Heatmaps or bar charts categorize profitability by city and policy tenure.
+Represent the distribution of assets under management across stakeholders: Bar or treemap visualizations display how assets are distributed among stakeholders.
 
 
 
