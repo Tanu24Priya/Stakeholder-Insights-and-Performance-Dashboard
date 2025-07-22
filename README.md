@@ -38,7 +38,7 @@ Ensure filters and KPIs update dynamically based on selections.
 <img width="1646" height="862" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/7ff13f63-5ba6-494b-a80e-0160bf150acd" />
 
 ## Project Insight
--Display the total premium collected: KPI card summarizing the total amount of premiums collected.
+- Display the total premium collected: KPI card summarizing the total amount of premiums collected.
 
 -Show the average age of stakeholders: KPI card presenting the average stakeholder age.
 
